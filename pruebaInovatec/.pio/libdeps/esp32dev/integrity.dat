@@ -1,0 +1,4 @@
+sparkfun/SparkFun MAX3010x Pulse and Proximity Sensor Library @ ^1.1.0
+bblanchon/ArduinoJson @ ^6.21.3
+knolleary/PubSubClient @ ^2.8
+https://github.com/Sensirion/arduino-i2c-sfm-sf06.git
